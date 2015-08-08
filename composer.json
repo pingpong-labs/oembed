@@ -16,8 +16,8 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "5.0.*",
-    "illuminate/cache": "5.0.*",
+    "illuminate/support": "5.*",
+    "illuminate/cache": "5.*",
     "embed/embed": "~1"
   },
   "require-dev": {
